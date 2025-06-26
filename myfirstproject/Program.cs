@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-
+Console.WriteLine("hello word");
 string name = "nafisa mohamed ali";
 Console.WriteLine(name);
 string Mname = "rahma mohamed yusuf";
